@@ -7,7 +7,7 @@
     "dev": "vite --no-open",
     "build": "vite build",
     "preview": "vite preview",
-    "prepare": "cd ../.. && husky install front/.husky",
+    "prepare": "husky install",
     "lint-staged": "lint-staged"
   },
   "dependencies": {
