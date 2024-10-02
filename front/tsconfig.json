@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "module": "ESNext",
+    "target": "ES2017",
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "moduleResolution": "node",
+    // "baseUrl": "./src",
+    // "paths": {
+    //   "app": ["./src/app"],
+    //   "pages": ["./src/pages"],
+    //   "shared": ["./src/shared"],
+    //   "features": ["./src/features"],
+    //   "widgets": ["./src/widgets"],
+    //   "entities": ["./src/entities"]
+    // },
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "types": ["vite/client", "node"],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["./src/**/*.ts", "./src/**/*.tsx", "vite.config.ts", "eslint.config.mjs"],
+  "exclude": ["node_modules"]
+}
