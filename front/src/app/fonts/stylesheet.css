@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Verdana';
+    src: url('Verdana-Bold.woff2') format('woff2'),
+        url('Verdana-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Verdana';
+    src: url('Verdana-BoldItalic.woff2') format('woff2'),
+        url('Verdana-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tw Cen MT Condensed';
+    src: url('TwCenMT-CondensedBold.woff2') format('woff2'),
+        url('TwCenMT-CondensedBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Verdana';
+    src: url('Verdana-Italic.woff2') format('woff2'),
+        url('Verdana-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TeX Gyre Adventor';
+    src: url('TeXGyreAdventor-Regular.woff2') format('woff2'),
+        url('TeXGyreAdventor-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tw Cen MT';
+    src: url('TwCenMT-Regular.woff2') format('woff2'),
+        url('TwCenMT-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TeX Gyre Adventor';
+    src: url('TeXGyreAdventor-BoldItalic.woff2') format('woff2'),
+        url('TeXGyreAdventor-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tw Cen MT Condensed';
+    src: url('TwCenMT-Condensed.woff2') format('woff2'),
+        url('TwCenMT-Condensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tw Cen MT';
+    src: url('TwCenMT-BoldItalic.woff2') format('woff2'),
+        url('TwCenMT-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tw Cen MT';
+    src: url('TwCenMT-Bold.woff2') format('woff2'),
+        url('TwCenMT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tw Cen MT';
+    src: url('TwCenMT-Italic.woff2') format('woff2'),
+        url('TwCenMT-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Verdana';
+    src: url('Verdana.woff2') format('woff2'),
+        url('Verdana.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TeX Gyre Adventor';
+    src: url('TeXGyreAdventor-Italic.woff2') format('woff2'),
+        url('TeXGyreAdventor-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tw Cen MT Condensed Extra';
+    src: url('TwCenMT-CondensedExtraBold.woff2') format('woff2'),
+        url('TwCenMT-CondensedExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TeX Gyre Adventor';
+    src: url('TeXGyreAdventor-Bold.woff2') format('woff2'),
+        url('TeXGyreAdventor-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
