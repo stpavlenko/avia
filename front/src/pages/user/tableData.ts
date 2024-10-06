@@ -1,0 +1,68 @@
+export const data = [
+  {
+    key: '1',
+    date: '2024-10-01',
+    loginTime: '08:30 AM',
+    logoutTime: '05:00 PM',
+    time: '8h 30m',
+    logoutReason: 'Successful logout',
+  },
+  {
+    key: '2',
+    date: '2024-10-01',
+    loginTime: '09:00 AM',
+    logoutTime: '05:15 PM',
+    time: '8h 15m',
+    logoutReason: 'Successful logout',
+  },
+  {
+    key: '3',
+    date: '2024-10-02',
+    loginTime: '08:45 AM',
+    logoutTime: '04:50 PM',
+    time: '8h 5m',
+    logoutReason: 'Successful logout',
+  },
+  {
+    key: '4',
+    date: '2024-10-02',
+    loginTime: '10:00 AM',
+    logoutTime: '04:00 PM',
+    time: '6h 0m',
+    logoutReason: 'Network issue',
+  },
+  {
+    key: '5',
+    date: '2024-10-03',
+    loginTime: '09:30 AM',
+    logoutTime: '05:00 PM',
+    time: '7h 30m',
+    logoutReason: 'Successful logout',
+  },
+  {
+    key: '6',
+    date: '2024-10-03',
+    loginTime: '08:00 AM',
+    logoutTime: '12:00 PM',
+    time: '4h 0m',
+    logoutReason: 'System error',
+  },
+  {
+    key: '7',
+    date: '2024-10-04',
+    loginTime: '09:15 AM',
+    logoutTime: '05:00 PM',
+    time: '7h 45m',
+    logoutReason: 'Successful logout',
+  },
+  {
+    key: '8',
+    date: '2024-10-04',
+    loginTime: '08:30 AM',
+    logoutTime: '03:30 PM',
+    time: '7h 0m',
+    logoutReason: 'User initiated',
+  },
+];
+
+export default data;
