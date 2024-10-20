@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 import { Button, Flex, Table, Typography } from 'antd';
 
-import data from './tableData';
+import data from '../tableData';
 
 const { Text } = Typography;
 

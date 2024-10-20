@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 import { Button, DatePicker, Flex, Form, Input, Modal, Radio, Select, Space, Table, Typography } from 'antd';
 
-import { data } from './tableData';
+import { data } from '../tableData';
 
 const { Text } = Typography;
 
